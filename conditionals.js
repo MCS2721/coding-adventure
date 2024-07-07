@@ -13,7 +13,7 @@
         more questions correct in order to pass. First we must declare a variable for the results. Then we must use the IF/ELSE 
         statement to let the student know if she passed or failed. */
 
-        var result = 30;
+        var result = 50;
 
         if (result > 40) {
             console.log("Congratulations! You passed!");
